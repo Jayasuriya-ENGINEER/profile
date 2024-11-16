@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jayasuriya-ENGINEER/jayasuriya-ENGINEER/output/snake.svg" alt="Snake animation" />
+<img src="https://www.bing.com/th/id/OGC.95b71cc5731d0837cfeb45df1fc0672a?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fPlatane%2fsnk%2foutput%2fgithub-contribution-grid-snake.gif&ehk=MSU66g27l4cJENpdSLeDhh%2bGHwD2i9YVh8LvpDrO6BI%3d" alt="Snake animation" />
 
 ###
